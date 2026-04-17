@@ -1,0 +1,19 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#17120D" />
+      <stop offset="1" stop-color="#07080B" />
+    </linearGradient>
+    <linearGradient id="accent" x1="220" y1="160" x2="1360" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E6B980" stop-opacity="0.56" />
+      <stop offset="1" stop-color="#B87A43" stop-opacity="0.1" />
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" rx="32" fill="url(#bg)" />
+  <rect x="72" y="72" width="1456" height="756" rx="24" fill="url(#accent)" stroke="white" stroke-opacity="0.14" />
+  <circle cx="1220" cy="260" r="170" fill="#E6B980" fill-opacity="0.18" />
+  <circle cx="350" cy="660" r="210" fill="#B87A43" fill-opacity="0.16" />
+  <path d="M230 665C340 600 475 564 626 564C812 564 975 620 1130 705" stroke="white" stroke-opacity="0.28" stroke-width="5" stroke-linecap="round" />
+  <text x="150" y="190" fill="white" fill-opacity="0.94" font-size="74" font-family="Inter, Arial, sans-serif" font-weight="700">CLOG</text>
+  <text x="152" y="248" fill="#F2C58F" font-size="26" font-family="Inter, Arial, sans-serif" font-weight="500">Structured Coffee Log For Home Brewers</text>
+</svg>
