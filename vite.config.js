@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/portoflio-/", // 替换为你的仓库名
+  base: "/", // Vercel 部署通常使用根路径
 });
