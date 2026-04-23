@@ -33,7 +33,7 @@ export default function HomePage() {
             href="mailto:surelyshirley631@gmail.com"
             className="rounded-lg border border-white/20 px-5 py-2.5 text-sm font-medium text-white/90 transition duration-300 hover:-translate-y-0.5 hover:border-white/40 hover:text-white"
           >
-            Contact
+            Contact Me
           </a>
         </div>
       </section>
