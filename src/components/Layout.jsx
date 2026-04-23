@@ -39,7 +39,7 @@ export default function Layout() {
 
       <footer className="border-t border-white/10">
         <div className="mx-auto flex w-full max-w-6xl flex-col gap-2 px-6 py-8 text-sm text-muted md:flex-row md:items-center md:justify-between md:px-10">
-          <p>© {new Date().getFullYear()} Shirley Lau. Built with React + Tailwind.</p>
+          <p>© {new Date().getFullYear()} Shirley Liu. Built with React + Tailwind.</p>
           <div className="flex items-center gap-4">
             <a className="hover:text-white" href="https://github.com/surelyshirley631-dot" target="_blank" rel="noreferrer">
               GitHub

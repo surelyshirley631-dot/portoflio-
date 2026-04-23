@@ -65,10 +65,10 @@ export default function HomePage() {
           <SectionHeader eyebrow="Connect" title="Contact / Links" className="mb-4" />
           <div className="space-y-3 text-sm">
             <a className="block text-white/80 transition hover:text-accent" href="https://github.com/surelyshirley631-dot">
-              GitHub
+              GitHub: github.com/surelyshirley631-dot
             </a>
             <a className="block text-white/80 transition hover:text-accent" href="mailto:surelyshirley631@gmail.com">
-              Email
+              Email: surelyshirley631@gmail.com
             </a>
           </div>
         </article>
