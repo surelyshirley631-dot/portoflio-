@@ -56,7 +56,7 @@ export default function HomePage() {
           <SectionHeader
             eyebrow="About"
             title="About Preview"
-            description="I design and build digital products at the intersection of creativity and AI, balancing experimentation with reliable delivery."
+            description="I build digital products from curiosity first. Some start as experiments, some begin with a real problem — but I’m always interested in making things that feel useful, simple, and human."
             className="mb-0"
           />
         </article>
@@ -68,7 +68,7 @@ export default function HomePage() {
               GitHub: github.com/surelyshirley631-dot
             </a>
             <a className="block text-white/80 transition hover:text-accent" href="mailto:surelyshirley631@gmail.com">
-              Email: surelyshirley631@gmail.com
+              surelyshirley631@gmail.com
             </a>
           </div>
         </article>
