@@ -121,16 +121,7 @@ export default function ProjectDetailPage() {
             GitHub
           </a>
         ) : null}
-        {project.liveUrl ? (
-          <a
-            href={project.liveUrl}
-            target="_blank"
-            rel="noreferrer"
-            className="rounded-lg border border-accent bg-accent/15 px-5 py-2.5 text-sm text-accent transition hover:bg-accent hover:text-black"
-          >
-            Live Demo
-          </a>
-        ) : null}
+
         {project.caseStudyUrl ? (
           <a
             href={project.caseStudyUrl}
