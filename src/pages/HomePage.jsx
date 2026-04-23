@@ -27,7 +27,7 @@ export default function HomePage() {
             to="/projects"
             className="rounded-lg border border-accent bg-accent/15 px-5 py-2.5 text-sm font-medium text-accent transition duration-300 hover:-translate-y-0.5 hover:bg-accent hover:text-black"
           >
-            View Projects
+            View all Projects
           </Link>
           <a
             href="mailto:surelyshirley631@gmail.com"
